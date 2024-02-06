@@ -1,4 +1,4 @@
 streamlit
 matplotlib
-nibabel
+nibabel==3.0.0
 numpy
