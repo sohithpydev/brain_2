@@ -2,4 +2,3 @@ streamlit
 matplotlib
 nibabel==3.0.0
 numpy==1.20.0
-fsl==6.0
